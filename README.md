@@ -1,1 +1,1 @@
-# aqua
+This project is to understand how exactly the demands for the shared bikes vary with different features. Knowing this management can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
